@@ -23,3 +23,6 @@ La aplicación visualiza hallazgos clave obtenidos durante el Análisis Explorat
 2. Crear un entorno virtual: `python3 -m venv vehicles_env`.
 3. Activar el entorno e instalar dependencias: `pip install -r requirements.txt`.
 4. Ejecutar la app: `streamlit run app.py`.
+
+## Link de app en linea
+https://reventa-autos-ee-uu.onrender.com/
